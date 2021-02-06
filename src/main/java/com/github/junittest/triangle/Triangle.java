@@ -1,9 +1,9 @@
 package com.github.junittest.triangle;
 
 public class Triangle {
-    int a;
-    int b;
-    int c;
+    private int a;
+    private int b;
+    private int c;
 
     /**
      * Command line interface.
